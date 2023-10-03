@@ -1,0 +1,45 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name": "Ben Tennyson",
+      "img": "https://e0.pxfuel.com/wallpapers/391/182/desktop-wallpaper-ben-10-cartoon-ben-10-ben-10-alien-force-ben-ten-aliens.jpg",
+      "power": "9000",
+      "attack": "8100",
+      "defence": "8900"
+    },
+    {
+      "id": 2,
+      "name": "Gwen Tennyson",
+      "img": "https://static1.personality-database.com/profile_images/e69ed795c13d4b45a9773a2b969d971d.png",
+      "power": "9000",
+      "attack": "8100",
+      "defence": "8900"
+    },
+    {
+      "id": 3,
+      "name": "Kevin Levin",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNZnLvHldo7nAVIFdMVNTCgSThFam-Em7bQ&usqp=CAU",
+      "power": "9000",
+      "attack": "8100",
+      "defence": "8900"
+    },
+    {
+      "id": 4,
+      "name": "Max Tennyson",
+      "img": "https://static.miraheze.org/greatcharacterswiki/0/08/MaxTennyson.jpeg",
+      "power": "9000",
+      "attack": "8100",
+      "defence": "8900"
+    },
+    {
+      "id": 5,
+      "name": "Rook Blonko",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/rook_blonko.png",
+      "power": "9000",
+      "attack": "8100",
+      "defence": "8900"
+    }
+
+]   
+}

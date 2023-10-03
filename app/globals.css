@@ -25,3 +25,97 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.images-container {
+  max-width: 1200px;
+  padding: 10vh 3vw;
+  margin: 0 auto;
+}
+.image-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-grid .images {
+  gap: 1.5rem;
+  max-width: 95%;
+  margin-top: 4rem;
+  columns: 5 34rem;
+  list-style-type: none;
+}
+.image-grid .images .img {
+  background-color: transparent;
+  cursor: pointer;
+  border-radius: .5rem;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+}
+.image-grid .images .img img {
+  width: 100%;
+  height: 100%;
+}
+.img:hover .details{
+  opacity: 1;
+}
+.img .details{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  opacity: 0;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.img .details .top-detail{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1.4rem;
+  background:linear-gradient(rgba(61, 61, 61, 0.157),transparent);
+}
+.img .details .bottom-detail{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1.4rem;
+  background:linear-gradient(to top,rgba(42, 42, 42, 0.091),transparent);
+}
+.btn{
+  padding: .7rem 1rem;
+  outline: none;
+  background: #fff;
+  border-radius: .5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+.img-text{
+  font-size: 2rem;
+  font-weight: 600;
+  color: #222222;
+  overflow: hidden;
+  text-wrap: nowrap;
+}
+/* banner css */
+.banner{
+  width: 100%;
+  height: 80vh;
+  background: url("https://rukminim2.flixcart.com/image/850/1000/kzzw5u80/poster/y/j/i/medium-wallpaper-ben-10-ultimate-alien-and-gwen-on-quality-paper-original-imagbvmzphduzhxu.jpeg?q=90");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:rgba(0, 0, 0, 0.8);
+  background-blend-mode: darken;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,181 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name": "Kevin 11 (Kevin Ethan Levin)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/kevin_e_levin.png",
+      "power": "7700",
+      "attack": "5500",
+      "defence": "4800"
+    },
+    {
+      "id": 2,
+      "name": "Rojo",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Rojo01_7090.png",
+      "power": "7900",
+      "attack": "4200",
+      "defence": "4400"
+    },
+    {
+      "id": 3,
+      "name": "Clancy",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Clancy3_2791.png",
+      "power": "6500",
+      "attack": "7200",
+      "defence": "4800"
+    },
+    {
+      "id": 4,
+      "name": "The Circus Freak Trio",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/adszmf6_9490.png",
+      "power": "7000",
+      "attack": "5000",
+      "defence": "7900"
+    },
+    {
+      "id": 5,
+      "name": "Sublimino",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/sublimino5_500.png",
+      "power": "8500",
+      "attack": "4900",
+      "defence": "6700"
+    },
+    {
+      "id": 6,
+      "name": "Zs'Skayr (Ghostfreak)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/zsskayr_os.png",
+      "power": "9000",
+      "attack": "6400",
+      "defence": "4700"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Viktor",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/dr__vicktor2_7327.png",
+      "power": "7000",
+      "attack": "5800",
+      "defence": "7100"
+    },
+    {
+      "id": 8,
+      "name": "Werewolf (Yenaldooshi)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/loboan.png",
+      "power": "6800",
+      "attack": "9000",
+      "defence": "4700"
+    },
+    {
+      "id": 9,
+      "name": "The Mummy",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/mummy_4.png",
+      "power": "4400",
+      "attack": "7400",
+      "defence": "8900"
+    },
+    {
+      "id": 10,
+      "name": "SixSix, SevenSeven and EightEight",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/sixsix_ov.png",
+      "power": "6700",
+      "attack": "8400",
+      "defence": "9000"
+    },
+    {
+      "id": 11,
+      "name": "Vulkanus",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/vulkanus_os.png",
+      "power": "8700",
+      "attack": "5000",
+      "defence": "7300"
+    },
+    {
+      "id": 12,
+      "name": "Kraab",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/kraab_012.png",
+      "power": "7000",
+      "attack": "5000",
+      "defence": "8800"
+    },
+    {
+      "id": 13,
+      "name": "Herbert J. Zombozo",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/20120324223730Zombozo_2271.jpg",
+      "power": "7300",
+      "attack": "5700",
+      "defence": "8300"
+    },
+    {
+      "id": 14,
+      "name": "Slix Vigma",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/slixvigma.png",
+      "power": "7600",
+      "attack": "7900",
+      "defence": "7600"
+    },
+    {
+      "id": 15,
+      "name": "Exo-Skull",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/exo-skull_ov_5010.png",
+      "power": "5700",
+      "attack": "7800",
+      "defence": "7200"
+    },
+    {
+      "id": 16,
+      "name": "Ah Puch",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/ben_10_ah_puch.png",
+      "power": "6400",
+      "attack": "7000",
+      "defence": "7300"
+    },
+    {
+      "id": 17,
+      "name": "Vilgax",
+      "img": "https://preview.redd.it/xnjst4onisa71.png?auto=webp&s=7a8e005340da5c19e3f0f08d60d14f6b81739407",
+      "power": "8000",
+      "attack": "7100",
+      "defence": "7900"
+    },
+    {
+      "id": 18,
+      "name": "Phillip Billings",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/phil_os.png",
+      "power": "8000",
+      "attack": "7100",
+      "defence": "7900"
+    },
+    {
+      "id": 19,
+      "name": "Dr. Aloysius James Animo",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/animo_os.png",
+      "power": "8000",
+      "attack": "7100",
+      "defence": "7900"
+    },
+    {
+      "id": 20,
+      "name": "Hex",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/hex_os.png",
+      "power": "8000",
+      "attack": "7100",
+      "defence": "7900"
+    },
+    {
+      "id": 21,
+      "name": "Charmcaster",
+      "img": "https://w7.pngwing.com/pngs/427/477/png-transparent-charmcaster-ben-10-alien-force-vilgax-attacks-ben-tennyson-others-thumbnail.png",
+      "power": "8000",
+      "attack": "7100",
+      "defence": "7900"
+    },
+    {
+      "id": 22,
+      "name": "Forever Knights",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/forever_knights_original.png",
+      "power": "8000",
+      "attack": "7100",
+      "defence": "7900"
+    }
+  ]
+  
+}

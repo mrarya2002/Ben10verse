@@ -1,0 +1,541 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name": "Arctiguana",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Articguana-001_2979.png",
+      "power": "7500",
+      "attack": "8100",
+      "defence": "8900"
+    },
+    {
+      "id": 2,
+      "name": "Blitzwolfer (Benwolf)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/blitzwolfer_9777.png",
+      "power": "8900",
+      "attack": "5600",
+      "defence": "7000"
+    },
+    {
+      "id": 3,
+      "name": "Buzzshock",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/buzzshock_ov_9461.png",
+      "power": "8500",
+      "attack": "8000",
+      "defence": "6000"
+    },
+    {
+      "id": 4,
+      "name": "Cannonbolt",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/cannonbolt_omniverse_poise.PNG",
+      "power": "6600",
+      "attack": "5200",
+      "defence": "4700"
+    },
+    {
+      "id": 5,
+      "name": "Diamondhead",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Diamondhead-001_8592.png",
+      "power": "7000",
+      "attack": "4500",
+      "defence": "8500"
+    },
+    {
+      "id": 6,
+      "name": "Ditto",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Ditto-001_3742.jpg",
+      "power": "5500",
+      "attack": "7600",
+      "defence": "8800"
+    },
+    {
+      "id": 7,
+      "name": "Eye Guy",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Eye-Guy-001_2042.jpg",
+      "power": "4100",
+      "attack": "5200",
+      "defence": "5600"
+    },
+    {
+      "id": 8,
+      "name": "Four Arms",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/four_arms_os_render.png",
+      "power": "9000",
+      "attack": "5100",
+      "defence": "7100"
+    },
+    {
+      "id": 9,
+      "name": "Frankenstrike (Benvicktor)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Benvicktor-001_9846.jpg",
+      "power": "6000",
+      "attack": "8900",
+      "defence": "7500"
+    },
+    {
+      "id": 10,
+      "name": "Ghostfreak",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/ghostfreak_os.png",
+      "power": "5900",
+      "attack": "4700",
+      "defence": "4000"
+    },
+    {
+      "id": 11,
+      "name": "Grey Matter ",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/grey_matter_profile.png",
+      "power": "6200",
+      "attack": "4300",
+      "defence": "4500"
+    },
+    {
+      "id": 12,
+      "name": "Heatblast",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/heatblast_og.png",
+      "power": "4700",
+      "attack": "7200",
+      "defence": "6700"
+    },
+    {
+      "id": 13,
+      "name": "Ripjaws",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Ripjaws-001_7034.jpg",
+      "power": "4400",
+      "attack": "5000",
+      "defence": "6400"
+    },
+    {
+      "id": 14,
+      "name": "Snare-oh (Benmummy)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/snare-oh_5283.png",
+      "power": "5600",
+      "attack": "5300",
+      "defence": "7100"
+    },
+    {
+      "id": 15,
+      "name": "Spitter",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/spitteros.png",
+      "power": "7200",
+      "attack": "8100",
+      "defence": "9000"
+    },
+    {
+      "id": 16,
+      "name": "Stinkfly",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Stinkfly-001_1036.png",
+      "power": "8500",
+      "attack": "8200",
+      "defence": "5200"
+    },
+    {
+      "id": 17,
+      "name": "Upchuck",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/upchuck_oficial.png",
+      "power": "8500",
+      "attack": "4400",
+      "defence": "6300"
+    },
+    {
+      "id": 18,
+      "name": "Upgrade",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/upgrade_ov_11.png",
+      "power": "8100",
+      "attack": "6600",
+      "defence": "8300"
+    },
+    {
+      "id": 19,
+      "name": "Way Big",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/way_big_render.png",
+      "power": "6800",
+      "attack": "8700",
+      "defence": "7300"
+    },
+    {
+      "id": 20,
+      "name": "Wildvine",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Wildvine-001_4015.png",
+      "power": "5100",
+      "attack": "7800",
+      "defence": "6600"
+    },
+    {
+      "id": 21,
+      "name": "XLR8",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/xlr8-001_9740.jpg",
+      "power": "7300",
+      "attack": "7500",
+      "defence": "5000"
+    },
+    {
+      "id": 22,
+      "name": "Big Chill",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/800px-Big_Chill_UA_3_9487.PNG",
+      "power": "5100",
+      "attack": "4400",
+      "defence": "5000"
+    },
+    {
+      "id": 23,
+      "name": "Brainstorm",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/brainstorm_uaf.png",
+      "power": "7300",
+      "attack": "6000",
+      "defence": "7100"
+    },
+    {
+      "id": 24,
+      "name": "Chromastone",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/chromastone_1.png",
+      "power": "8400",
+      "attack": "4500",
+      "defence": "8400"
+    },
+    {
+      "id": 25,
+      "name": "Echo",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/echo_echo_uaf.png",
+      "power": "7800",
+      "attack": "5100",
+      "defence": "8000"
+    },
+    {
+      "id": 26,
+      "name": "Goop",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/goop_uaf.png",
+      "power": "4100",
+      "attack": "7400",
+      "defence": "5400"
+    },
+    {
+      "id": 27,
+      "name": "Humungousaur",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/humungousaur.png",
+      "power": "6700",
+      "attack": "7500",
+      "defence": "5600"
+    },
+    {
+      "id": 28,
+      "name": "Jetray",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/jetray_3.png",
+      "power": "7400",
+      "attack": "9000",
+      "defence": "6600"
+    },
+    {
+      "id": 29,
+      "name": "Lodestar",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/lodestar_ov.png",
+      "power": "7200",
+      "attack": "6200",
+      "defence": "6700"
+    },
+    {
+      "id": 30,
+      "name": "Nanomech (Alien Swarm)",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Omniverse_S1E5_Nanomech_8791.png",
+      "power": "5900",
+      "attack": "5000",
+      "defence": "6700"
+    },
+    {
+      "id": 31,
+      "name": "Rath",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/1524021_7492.jpg",
+      "power": "4200",
+      "attack": "6500",
+      "defence": "7500"
+    },
+    {
+      "id": 32,
+      "name": "Spidermonkey",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/spidermonkey_uaf.png",
+      "power": "5500",
+      "attack": "6800",
+      "defence": "4800"
+    },
+    {
+      "id": 33,
+      "name": "Swampfire",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Swampfire_Basic_Training_9671.PNG",
+      "power": "8200",
+      "attack": "5800",
+      "defence": "4500"
+    },
+    {
+      "id": 34,
+      "name": "Alien X",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/alien_x.png",
+      "power": "5900",
+      "attack": "6200",
+      "defence": "7800"
+    },
+    {
+      "id": 35,
+      "name": "Bullfrag",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/65b61b31_f860_4f24_8948_4ec194d16f19.png",
+      "power": "8200",
+      "attack": "6200",
+      "defence": "5300"
+    },
+    {
+      "id": 36,
+      "name": "Crashhopper",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/crashhopper.png",
+      "power": "5300",
+      "attack": "6900",
+      "defence": "6200"
+    },
+    {
+      "id": 37,
+      "name": "Feedback",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/feedback.png",
+      "power": "5500",
+      "attack": "6700",
+      "defence": "4000"
+    },
+    {
+      "id": 38,
+      "name": "Gravattack",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/gravattack.png",
+      "power": "7200",
+      "attack": "8600",
+      "defence": "8200"
+    },
+    {
+      "id": 39,
+      "name": "Gutrot",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/gutrot_official.png",
+      "power": "5300",
+      "attack": "4000",
+      "defence": "5600"
+    },
+    {
+      "id": 40,
+      "name": "Kickin Hawk",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/kickin_hawk.png",
+      "power": "8000",
+      "attack": "4100",
+      "defence": "8100"
+    },
+    {
+      "id": 41,
+      "name": "Mole-Stache",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/mole_stache.png",
+      "power": "8900",
+      "attack": "4600",
+      "defence": "8000"
+    },
+    {
+      "id": 42,
+      "name": "Pesky Dust",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/pesky_dust.png",
+      "power": "6100",
+      "attack": "6500",
+      "defence": "6700"
+    },
+    {
+      "id": 43,
+      "name": "The Worst",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/omniversetheworst.png",
+      "power": "8900",
+      "attack": "4400",
+      "defence": "4800"
+    },
+    {
+      "id": 44,
+      "name": "Toepick",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/toepick_art.png",
+      "power": "7500",
+      "attack": "4100",
+      "defence": "7400"
+    },
+    {
+      "id": 45,
+      "name": "Walkatrout",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Walkatrout_1893.png",
+      "power": "8500",
+      "attack": "5100",
+      "defence": "6700"
+    },
+    {
+      "id": 46,
+      "name": "Whampire",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/whampire.png",
+      "power": "6900",
+      "attack": "6700",
+      "defence": "8300"
+    },
+    {
+      "id": 47,
+      "name": "Astrodactyl",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/astrodactyl.png",
+      "power": "6800",
+      "attack": "6300",
+      "defence": "4500"
+    },
+    {
+      "id": 48,
+      "name": "Atomix",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/omniverseatomix.png",
+      "power": "7000",
+      "attack": "7000",
+      "defence": "6700"
+    },
+    {
+      "id": 49,
+      "name": "Ball Weevil",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/ball_weevil.png",
+      "power": "8700",
+      "attack": "5400",
+      "defence": "5000"
+    },
+    {
+      "id": 50,
+      "name": "Bloxx",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/bloxx.png",
+      "power": "4100",
+      "attack": "4500",
+      "defence": "7000"
+    },
+    {
+      "id": 51,
+      "name": "AmpFibian",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/640px-AmpFibian_001_8979.png",
+      "power": "8300",
+      "attack": "4900",
+      "defence": "6000"
+    },
+    {
+      "id": 52,
+      "name": "Armodrillo",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/Armodrillo_9398.png",
+      "power": "7700",
+      "attack": "8900",
+      "defence": "7900"
+    },
+    {
+      "id": 53,
+      "name": "Chamalien",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/chamalien.png",
+      "power": "7700",
+      "attack": "4700",
+      "defence": "8300"
+    },
+    {
+      "id": 54,
+      "name": "Clockwork",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/clockwork_ov.png",
+      "power": "6800",
+      "attack": "5800",
+      "defence": "4600"
+    },
+    {
+      "id": 55,
+      "name": "Eatle",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/eatleov_9557.png",
+      "power": "8700",
+      "attack": "6800",
+      "defence": "8900"
+    },
+    {
+      "id": 56,
+      "name": "Fasttrack",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/fasttrack.png",
+      "power": "4900",
+      "attack": "4100",
+      "defence": "4300"
+    },
+    {
+      "id": 57,
+      "name": "Jury Rigg",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/juryrigg_ov.png",
+      "power": "8200",
+      "attack": "8200",
+      "defence": "6100"
+    },
+    {
+      "id": 58,
+      "name": "NRG",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/nrg_ov.png",
+      "power": "5900",
+      "attack": "8000",
+      "defence": "7600"
+    },
+    {
+      "id": 59,
+      "name": "Shocksquatch",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/shocksquatch_omniverse_official.png",
+      "power": "7300",
+      "attack": "4300",
+      "defence": "5200"
+    },
+    {
+      "id": 60,
+      "name": "Terraspin",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/640px-Terraspin_001_6482.png",
+      "power": "6100",
+      "attack": "6500",
+      "defence": "8600"
+    },
+    {
+      "id": 61,
+      "name": "Water Hazard",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/pose_of_water_hazard.png",
+      "power": "6500",
+      "attack": "4900",
+      "defence": "8100"
+    },
+    {
+      "id": 62,
+      "name": "Wildmutt",
+      "img": "https://e1.pxfuel.com/desktop-wallpaper/266/43/desktop-wallpaper-wildmutt-gallery-wildmutt.jpg",
+      "power": "6500",
+      "attack": "4900",
+      "defence": "8100"
+    },
+    {
+      "id": 71,
+      "name": "Gax",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/gax_0.png",
+      "power": "8700",
+      "attack": "6800",
+      "defence": "4100"
+    },
+    {
+      "id": 72,
+      "name": "Overflow",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/overflow_re.png",
+      "power": "4900",
+      "attack": "6400",
+      "defence": "9000"
+    },
+    {
+      "id": 73,
+      "name": "Shock Rock",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/latest_1_35.png",
+      "power": "5400",
+      "attack": "6700",
+      "defence": "4900"
+    },
+    {
+      "id": 74,
+      "name": "Slapback",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/latest_2_7.png",
+      "power": "4500",
+      "attack": "5900",
+      "defence": "4700"
+    },
+    {
+      "id": 75,
+      "name": "Surge",
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/surge_2.PNG",
+      "power": "7100",
+      "attack": "7100",
+      "defence": "6200"
+    }
+  ]
+  
+}
