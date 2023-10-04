@@ -34,7 +34,7 @@ const Page = () => {
       window.innerHeight + document.documentElement.scrollTop ===
       document.documentElement.offsetHeight
     ) {
-      loadMoreData();
+      useLoadMoreData();
     }
   };
 
@@ -65,7 +65,7 @@ const Page = () => {
       <section className="px-2 my-3 grid-cols-1 grid md:grid-cols-4 auto-rows-[10px]">
         {visibleData?.map((images,index)=>{
             return (
-                <ImageContainer id={index} photo={images} />
+                <ImageContainer key={index} photo={images} />
             )
         })}
       </section>
