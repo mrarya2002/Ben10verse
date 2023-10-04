@@ -6,11 +6,11 @@ import Link from 'next/link'
 const Header = () => {
   return (
     <>
-      <header class="sticky top-0 z-50">
-            <nav class="container mx-auto px-3 flex justify-between items-center bg-black/30">
-                <Image src={logo} width={"70"} alt="logo" />
-                <Link href="/Gallery" class="px-8 py-2 rounded-md text-md font-bold text-white">Gallery</Link>
-                <Link href="/" class="px-8 py-2 rounded-md text-md font-bold  bg-[#02a302]">Play</Link>
+      <header className="sticky top-0 z-50">
+            <nav className="container mx-auto px-3 flex justify-between items-center bg-black/30">
+                <Link href="/"><Image src={logo} width={"70"} alt="logo" /></Link>
+                <Link href="/Gallery" className="px-8 py-2 rounded-md text-md font-bold text-white">Gallery</Link>
+                <Link href="/" className="px-8 py-2 rounded-md text-md font-bold  bg-[#02a302]">Play</Link>
             </nav>
         </header>
     </>

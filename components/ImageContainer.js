@@ -5,12 +5,12 @@ import copy from '@/public/copy.svg'
 import download from '@/public/download.svg'
 
 const ImageContainer = (props) => {
-    const {photo,key} = props
+    const {photo} = props
     const widthHeightRatio = photo.height/photo.width
     const galleryHeight = Math.ceil(250*widthHeightRatio)
     const photoSpans = Math.ceil(galleryHeight/10)+1
   return (
-    <div key={key} className='md:w-[250px] justify-self-center'
+    <div className='md:w-[250px] justify-self-center'
         style={{gridRow:`span ${photoSpans}`}}
     >
       <div className='rounded-xl overflow-hidden group w-full relative'>

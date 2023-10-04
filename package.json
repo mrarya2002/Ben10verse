@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "image-size": "^1.0.2",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"

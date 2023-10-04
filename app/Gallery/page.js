@@ -13,10 +13,11 @@ const Page = () => {
   const fetchData = async ()=>{
     const data = await getAllgallery()
     setData(data.data)
+    LoadMoreData();
   }
 
 
-  const useLoadMoreData = () => {
+  const LoadMoreData = () => {
     const newStartIndex = startIndex + itemsPerPage;
     const newVisibleData = mdata.slice(startIndex, newStartIndex);
     setVisibleData([...visibleData, ...newVisibleData]);
@@ -26,7 +27,6 @@ const Page = () => {
   
   useEffect(() => {
     fetchData()
-    useLoadMoreData();
   }, []);
 
   const useHandleScroll = () => {
@@ -34,7 +34,7 @@ const Page = () => {
       window.innerHeight + document.documentElement.scrollTop ===
       document.documentElement.offsetHeight
     ) {
-      useLoadMoreData();
+      LoadMoreData();
     }
   };
 
@@ -63,9 +63,9 @@ const Page = () => {
      <div className="mt-6 container mx-auto min-h-screen">
       <h1 className="text-2xl font-bold text-center">Image Gallery</h1>
       <section className="px-2 my-3 grid-cols-1 grid md:grid-cols-4 auto-rows-[10px]">
-        {visibleData?.map((images,index)=>{
+        {visibleData?.map((images)=>{
             return (
-                <ImageContainer key={index} photo={images} />
+                <ImageContainer key={images?.id} photo={images} />
             )
         })}
       </section>
