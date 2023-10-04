@@ -4,7 +4,7 @@ import { getAllgallery } from "@/lib/character";
 import ImageContainer from "@/components/ImageContainer";
 import Header from "@/components/Header";
 
-const page = () => {
+const Page = () => {
   const [visibleData, setVisibleData] = useState([]);
   const [startIndex, setStartIndex] = useState(0);
   const [mdata,setData] = useState([])
@@ -16,7 +16,7 @@ const page = () => {
   }
 
 
-  const loadMoreData = () => {
+  const useLoadMoreData = () => {
     const newStartIndex = startIndex + itemsPerPage;
     const newVisibleData = mdata.slice(startIndex, newStartIndex);
     setVisibleData([...visibleData, ...newVisibleData]);
@@ -26,10 +26,10 @@ const page = () => {
   
   useEffect(() => {
     fetchData()
-    loadMoreData();
+    useLoadMoreData();
   }, []);
 
-  const handleScroll = () => {
+  const useHandleScroll = () => {
     if (
       window.innerHeight + document.documentElement.scrollTop ===
       document.documentElement.offsetHeight
@@ -39,9 +39,9 @@ const page = () => {
   };
 
   useEffect(() => {
-    window.addEventListener("scroll", handleScroll);
+    window.addEventListener("scroll", useHandleScroll);
     return () => {
-      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("scroll", useHandleScroll);
     };
   }, [visibleData]);
   return (
@@ -63,9 +63,9 @@ const page = () => {
      <div className="mt-6 container mx-auto min-h-screen">
       <h1 className="text-2xl font-bold text-center">Image Gallery</h1>
       <section className="px-2 my-3 grid-cols-1 grid md:grid-cols-4 auto-rows-[10px]">
-        {visibleData?.map((images)=>{
+        {visibleData?.map((images,index)=>{
             return (
-                <ImageContainer photo={images} />
+                <ImageContainer id={index} photo={images} />
             )
         })}
       </section>
@@ -74,4 +74,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
