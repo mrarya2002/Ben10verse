@@ -1,5 +1,4 @@
 "use client"
-import React from "react";
 import { useEffect,useState } from "react";
 import { getAllgallery } from "@/lib/character";
 import ImageContainer from "@/components/ImageContainer";

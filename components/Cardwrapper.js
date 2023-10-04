@@ -8,9 +8,9 @@ const Cardwrapper = (props) => {
     <div class="container mx-auto px-2 mt-6">
             <h1 class="text-4xl font-bold my-3">{content}</h1>
             <div class="wrapper grid grid-cols-2 md:grid-cols-5 gap-6">
-                {data?.map(ele=>{
+                {data?.map((ele,index)=>{
                     return (
-                        <div class="card w-full p-2 md:p-4 bg-[#000]">
+                        <div key={index} class="card w-full p-2 md:p-4 bg-[#000]">
                     <div class="patti">
                         <h1 class="text-lg font-bold text-[#02a302] tracking-widest">OMNITRIX</h1>
                     </div>

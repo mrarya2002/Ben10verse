@@ -1,5 +1,4 @@
 "use client"
-import Image from 'next/image'
 import { useState,useEffect } from 'react'
 import { getAllCharacters } from '@/lib/character'
 import { getAllAliens } from '@/lib/character'
@@ -32,14 +31,6 @@ export default function Home() {
     <Cardwrapper content={"Main Characters"} data={maincs}/>
     <Cardwrapper content={"Ben 10 Aliens"} data={aliens}/>
     <Cardwrapper content={"Ben 10 Villains"} data={villains}/>
-    {/* {mainc?.map((ele)=>{
-      return(<div>
-        <Image width={100} height={100} src={ele.img} alt='hello shk'/>
-        <h1>{ele.name}</h1>
-      </div>
-      )
-    })} */}
-  {/* <h1>hello</h1> */}
     </>
   )
 }
